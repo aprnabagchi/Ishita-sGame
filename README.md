@@ -1,1 +1,1 @@
-# Ishita-sGame
+# self-designed-game
